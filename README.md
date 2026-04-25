@@ -5,6 +5,16 @@
 Developed a comprehensive **Supply Chain Analytics solution using SQL** to analyze business performance across suppliers, products, customers, and orders.
 
 The project demonstrates strong capabilities in **data analysis, query optimization, and business intelligence**, progressing from basic exploration to advanced strategic insights.
+---
+
+## 📊 Quick Links
+
+* 📁 **[View SQL Source Code](https://github.com/KanhaMishra7/Supply-Chain-Data-Analysis-SQL/blob/main/Queries/Supply_chain_query.sql)**
+  Access the full script containing all 161 lines of analytical logic
+
+* 🖼️ **[View Detailed Results & Screenshots]([https://github.com/your-username/your-repo-name/tree/main/images](https://github.com/KanhaMishra7/Supply-Chain-Data-Analysis-SQL/blob/main/Visuals/README.md))**
+  A visual walkthrough of the data outputs and result grids for every query
+
 
 ---
 
