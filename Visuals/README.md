@@ -15,8 +15,8 @@
 **Orders**
 ![Orders](https://github.com/user-attachments/assets/56e072c8-6c41-4107-a997-4ac6bdc7509a)
 
-customer<img width="647" height="608" alt="image" src="https://github.com/user-attachments/assets/e6afef56-3fd5-4c34-9269-880af918b046" />
-
+**Customers**
+![Customers](https://github.com/user-attachments/assets/e6afef56-3fd5-4c34-9269-880af918b046)
 -- Q2.Customer Demographics: Find the count of customers in each country, ordered from highest to lowest.<img width="706" height="622" alt="image" src="https://github.com/user-attachments/assets/7d248af6-23f6-4bf2-af23-a66b7a29e8a8" />
 
 
