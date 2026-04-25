@@ -9,11 +9,13 @@ The project demonstrates strong capabilities in **data analysis, query optimizat
 
 ## 📊 Quick Links
 
-* 📁 **[View SQL Source Code](https://github.com/KanhaMishra7/Supply-Chain-Data-Analysis-SQL/blob/main/Queries/Supply_chain_query.sql)**
-  Access the full script containing all 161 lines of analytical logic
+* 📁 **[View SQL Source Code](https://github.com/KanhaMishra7/Supply-Chain-Data-Analysis-SQL/blob/main/Queries/Supply%20chain%20query.sql)**  
+  Access the full script containing all 161 lines of analytical logic  
 
-* 🖼️ **[View Detailed Results & Screenshots]([https://github.com/your-username/your-repo-name/tree/main/images](https://github.com/KanhaMishra7/Supply-Chain-Data-Analysis-SQL/blob/main/Visuals/README.md))**
-  A visual walkthrough of the data outputs and result grids for every query
+* 🖼️ **[View Detailed Results & Screenshots](https://github.com/KanhaMishra7/Supply-Chain-Data-Analysis-SQL/blob/main/Visuals/README.md)**  
+  A visual walkthrough of the data outputs and result grids for every query  
+
+
 
 
 ---
