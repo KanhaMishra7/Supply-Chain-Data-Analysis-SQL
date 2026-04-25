@@ -90,7 +90,7 @@ customer<img width="647" height="608" alt="image" src="https://github.com/user-a
 -- Q4.City-Based Networking: List customers who live in the same city and country, arranged by country.<img width="558" height="619" alt="image" src="https://github.com/user-attachments/assets/d653283d-9a32-4dd4-9ca7-4763dda9de3d" />
 
 
- -- Level 4 (Expert Queries)
+🏆 Level 4: Expert Queries
   -- Q1.Savings Analysis: The company offers discounts. Calculate the total amount saved in each order (Actual Price - Selling Price) and rank orders by total savings<img width="322" height="608" alt="image" src="https://github.com/user-attachments/assets/92f2303e-f66b-46cc-a3ab-e8494369c2fe" />
 
 
