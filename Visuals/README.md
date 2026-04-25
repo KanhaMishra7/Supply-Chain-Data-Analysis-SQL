@@ -17,10 +17,13 @@
 
 **Customers**
 ![Customers](https://github.com/user-attachments/assets/e6afef56-3fd5-4c34-9269-880af918b046)
--- Q2.Customer Demographics: Find the count of customers in each country, ordered from highest to lowest.<img width="706" height="622" alt="image" src="https://github.com/user-attachments/assets/7d248af6-23f6-4bf2-af23-a66b7a29e8a8" />
+### **Q2.Customer Demographics:**
+*Find the count of customers in each country, ordered from highest to lowest.*
+![Customer Demographics](https://github.com/user-attachments/assets/7d248af6-23f6-4bf2-af23-a66b7a29e8a8)
 
 
--- Q3.Active Inventory: Display all products that are currently active (not discontinued).<img width="877" height="317" alt="image" src="https://github.com/user-attachments/assets/512a35d6-0c05-4be7-bdc1-ce6d524ae794" />
+### **Q3.Active Inventory:** 
+Display all products that are currently active (not discontinued).<img width="877" height="317" alt="image" src="https://github.com/user-attachments/assets/512a35d6-0c05-4be7-bdc1-ce6d524ae794" />
 
 
 -- Q4.Supplier Catalog: List all company names along with the names of the products they supply.<img width="767" height="614" alt="image" src="https://github.com/user-attachments/assets/b3c8fb36-e70b-41ee-aa42-2acedd7392ab" />
