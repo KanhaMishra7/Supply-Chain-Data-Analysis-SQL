@@ -12,9 +12,8 @@
 **Order item:**
 ![Order item](https://github.com/user-attachments/assets/fa2df0c8-3db0-4b0d-ad79-f041322d01ea)
 
-
-orders<img width="666" height="606" alt="image" src="https://github.com/user-attachments/assets/56e072c8-6c41-4107-a997-4ac6bdc7509a" />
-
+**Orders**
+![Orders](https://github.com/user-attachments/assets/56e072c8-6c41-4107-a997-4ac6bdc7509a)
 
 customer<img width="647" height="608" alt="image" src="https://github.com/user-attachments/assets/e6afef56-3fd5-4c34-9269-880af918b046" />
 
