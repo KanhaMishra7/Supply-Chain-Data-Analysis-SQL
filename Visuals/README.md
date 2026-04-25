@@ -4,8 +4,7 @@
 *Objective: Read all data from primary tables to understand the database structure.*
 
 **Supplier Table:**
-![Supplier Table Result](<img width="602" height="270" alt="image" src="https://github.com/user-attachments/assets/5208b227-59f4-4adc-9fba-a5aac3bb37cf" />
-)
+![Supplier Table Result](https://github.com/user-attachments/assets/e1c705c1-5ae2-40c1-a2b0-73722995824a)
 
 **Product Table:**
 ![Product Table Result](https://github.com/user-attachments/assets/4124e358-c459-4c47-bd1d-a22e2fd0e460)-- Level 1 (Basic Queries)
