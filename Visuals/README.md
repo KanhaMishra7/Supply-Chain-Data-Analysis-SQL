@@ -1,4 +1,4 @@
-### **Level 1: Basic Queries**
+### **📊Level 1: Basic Queries**
 
 #### **Q1. Data Exploration**
 *Objective: Read all data from primary tables to understand the database structure.*
@@ -23,27 +23,42 @@
 
 
 ### **Q3.Active Inventory:** 
-Display all products that are currently active (not discontinued).<img width="877" height="317" alt="image" src="https://github.com/user-attachments/assets/512a35d6-0c05-4be7-bdc1-ce6d524ae794" />
+*Display all products that are currently active (not discontinued).*
+<img width="877" height="317" alt="image" src="https://github.com/user-attachments/assets/512a35d6-0c05-4be7-bdc1-ce6d524ae794" />
 
 
--- Q4.Supplier Catalog: List all company names along with the names of the products they supply.<img width="767" height="614" alt="image" src="https://github.com/user-attachments/assets/b3c8fb36-e70b-41ee-aa42-2acedd7392ab" />
+### **Q4.Supplier Catalog:** 
+*List all company names along with the names of the products they supply.*
+<img width="767" height="614" alt="image" src="https://github.com/user-attachments/assets/b3c8fb36-e70b-41ee-aa42-2acedd7392ab" />
 
 
--- Q5.Regional Search: Find all customer information for those residing in 'Mexico'.<img width="702" height="314" alt="image" src="https://github.com/user-attachments/assets/70091815-4216-4976-aacf-011636706783" />
+### **Q5.Regional Search:**
+*Find all customer information for those residing in 'Mexico'.*
+<img width="702" height="314" alt="image" src="https://github.com/user-attachments/assets/70091815-4216-4976-aacf-011636706783" />
 
 
--- Q6.High-Value Items: Identify the most expensive item ordered by each customer.<img width="511" height="605" alt="image" src="https://github.com/user-attachments/assets/888e4c26-80f4-47b5-822a-5cd7f7b7b3eb" />
+### **Q6.High-Value Items:**
+*Identify the most expensive item ordered by each customer.*
+<img width="511" height="605" alt="image" src="https://github.com/user-attachments/assets/888e4c26-80f4-47b5-822a-5cd7f7b7b3eb" />
 
 
--- Q7.Top Suppliers: Find the Supplier ID that provides the highest number of products.<img width="275" height="152" alt="image" src="https://github.com/user-attachments/assets/cca2c074-fddf-4f29-bd93-6ca83d52b466" />
+### **Q7.Top Suppliers:**
+*Find the Supplier ID that provides the highest number of products.*
+<img width="275" height="152" alt="image" src="https://github.com/user-attachments/assets/cca2c074-fddf-4f29-bd93-6ca83d52b466" />
 
-### Q8.Order Trends: Display the count of orders placed each month and year<img width="411" height="614" alt="image" src="https://github.com/user-attachments/assets/9b97b5ba-2d25-49af-9fb8-a003d443e0ea" />
+### **Q8.Order Trends:**
+*Display the count of orders placed each month and year*
+<img width="411" height="614" alt="image" src="https://github.com/user-attachments/assets/9b97b5ba-2d25-49af-9fb8-a003d443e0ea" />
 
 
--- Q9.Supplier Concentration: Which country has the maximum number of suppliers?<img width="341" height="178" alt="image" src="https://github.com/user-attachments/assets/389e1bd9-76ce-4a88-9184-a9a0cda19507" />
+### **Q9.Supplier Concentration:**
+*Which country has the maximum number of suppliers?*
+<img width="341" height="178" alt="image" src="https://github.com/user-attachments/assets/389e1bd9-76ce-4a88-9184-a9a0cda19507" />
 
 
--- Q10.Inactive Customers: Identify customers who have never placed an order.<img width="664" height="270" alt="image" src="https://github.com/user-attachments/assets/4a6dcaa0-d9d5-4715-81c6-6ac2d40c1d8b" />
+### **Q10.Inactive Customers:**
+*Identify customers who have never placed an order.*
+<img width="664" height="270" alt="image" src="https://github.com/user-attachments/assets/4a6dcaa0-d9d5-4715-81c6-6ac2d40c1d8b" />
 
 -- Level 2 (Intermediate Queries)
 -- Q1.Product Demand: Rank Product IDs and Names based on the total quantity ordered by customers.<img width="480" height="617" alt="image" src="https://github.com/user-attachments/assets/3b357c2d-480b-47ba-9dc6-dbdbf45fba6f" />
