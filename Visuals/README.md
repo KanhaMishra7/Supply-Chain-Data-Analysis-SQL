@@ -4,19 +4,25 @@
 *Objective: Read all data from primary tables to understand the database structure.*
 
 **Supplier Table:**
-![Supplier Table Result](https://github.com/user-attachments/assets/e1c705c1-5ae2-40c1-a2b0-73722995824a)
+<img width="940" height="422" alt="image" src="https://github.com/user-attachments/assets/d70ef9b3-650e-4327-ab71-85592802f3bb" />
+
 
 **Product Table:**
-![Product Table Result](https://github.com/user-attachments/assets/4124e358-c459-4c47-bd1d-a22e2fd0e460)
+<img width="869" height="614" alt="image" src="https://github.com/user-attachments/assets/3e2b1e88-ea3c-470b-89c7-cf6372ca9702" />
+
 
 **Order item:**
-![Order item](https://github.com/user-attachments/assets/fa2df0c8-3db0-4b0d-ad79-f041322d01ea)
+<img width="513" height="606" alt="image" src="https://github.com/user-attachments/assets/77ebbe49-c968-49fe-81f9-dd73d1e06fbd" />
+
 
 **Orders**
-![Orders](https://github.com/user-attachments/assets/56e072c8-6c41-4107-a997-4ac6bdc7509a)
+<img width="666" height="606" alt="image" src="https://github.com/user-attachments/assets/b27d4e1f-8d9f-4de6-8071-1be0f4deb97a" />
+
 
 **Customers**
-![Customers](https://github.com/user-attachments/assets/e6afef56-3fd5-4c34-9269-880af918b046)
+<img width="647" height="608" alt="image" src="https://github.com/user-attachments/assets/f0456aeb-913f-452a-b04e-fe759eb97df8" />
+
+
 ### **Q2.Customer Demographics:**
 *Find the count of customers in each country, ordered from highest to lowest.*
 ![Customer Demographics](https://github.com/user-attachments/assets/7d248af6-23f6-4bf2-af23-a66b7a29e8a8)
@@ -139,7 +145,7 @@
 ### **Q2.Market Research:**
 
 ### *Help a new supplier, Mr. Kavin, by identifying:**
-* a. A list of high-demand products he should consider supplying.*
+*a. A list of high-demand products he should consider supplying.*
 <img width="408" height="584" alt="image" src="https://github.com/user-attachments/assets/c275d4bf-3d30-4217-8d1b-12595e80ca76" />
 
 
