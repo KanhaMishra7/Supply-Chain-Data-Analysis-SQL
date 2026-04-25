@@ -7,10 +7,10 @@
 ![Supplier Table Result](https://github.com/user-attachments/assets/e1c705c1-5ae2-40c1-a2b0-73722995824a)
 
 **Product Table:**
-![Product Table Result](https://github.com/user-attachments/assets/4124e358-c459-4c47-bd1d-a22e2fd0e460)-- Level 1 (Basic Queries)
+![Product Table Result](https://github.com/user-attachments/assets/4124e358-c459-4c47-bd1d-a22e2fd0e460)
 
-*Orderitem*
-![Orderitem]<img width="513" height="606" alt="image" src="https://github.com/user-attachments/assets/fa2df0c8-3db0-4b0d-ad79-f041322d01ea" />
+**Order item:**
+![Order item](https://github.com/user-attachments/assets/fa2df0c8-3db0-4b0d-ad79-f041322d01ea)
 
 
 orders<img width="666" height="606" alt="image" src="https://github.com/user-attachments/assets/56e072c8-6c41-4107-a997-4ac6bdc7509a" />
