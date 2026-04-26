@@ -4,19 +4,9 @@
 
 Developed a comprehensive **Supply Chain Analytics solution using SQL** to analyze business performance across suppliers, products, customers, and orders.
 
-The project demonstrates strong capabilities in **data analysis, query optimization, and business intelligence**, progressing from basic exploration to advanced strategic insights.
----
+The project demonstrates strong capabilities in **data analysis, query optimization, and business intelligence**, progressing from basic exploration to advanced strategic insights — covering **23 analytical queries across 4 complexity levels**.
 
-## 📊 Quick Links
-
-* 📁 **[View SQL Source Code](https://github.com/KanhaMishra7/Supply-Chain-Data-Analysis-SQL/blob/main/Queries/Supply%20chain%20query.sql)**  
-  Access the full script containing all 161 lines of analytical logic  
-
-* 🖼️ **[View Detailed Results & Screenshots](https://github.com/KanhaMishra7/Supply-Chain-Data-Analysis-SQL/blob/main/Visuals/README.md)**  
-  A visual walkthrough of the data outputs and result grids for every query  
-
-
-
+Key findings include identifying the **top 3 revenue-generating suppliers**, discovering order savings exceeding **$3,000**, mapping inactive customers for re-engagement, and delivering a full competitor landscape for new supplier onboarding.
 
 ---
 
@@ -29,46 +19,36 @@ The project demonstrates strong capabilities in **data analysis, query optimizat
 
 ---
 
-## 🛠️ Technical Skills Demonstrated
-
-* SQL Query Writing (Beginner → Advanced)
-* Data Cleaning & Validation
-* Data Aggregation & Grouping
-* Joins (INNER, LEFT, RIGHT, FULL)
-* Common Table Expressions (CTEs)
-* Window Functions (RANK, AVG, etc.)
-* Subqueries & Nested Queries
-* Business Metrics Analysis
-
----
-
 ## 📊 Project Highlights
 
 ### 🔹 Data Exploration & Validation
 
 * Analyzed 5 relational tables: Suppliers, Products, Orders, Customers, Order Items
-* Ensured data consistency and integrity
+* Ensured data consistency and integrity across all tables
 
 ### 🔹 Customer & Market Analysis
 
 * Identified top countries contributing to customer base
 * Detected inactive customers for re-engagement strategies
+* Performed geographic clustering to find customers in the same city and country
 
 ### 🔹 Sales & Revenue Insights
 
-* Ranked top-selling products based on demand
+* Ranked top-selling products based on total quantity ordered
 * Calculated total revenue and yearly order trends
-* Identified high-performing suppliers
+* Identified the top 3 high-performing suppliers by revenue generated
 
 ### 🔹 Advanced Analytics
 
-* Segmented **bulk buyers** based on order size
-* Performed geographic clustering for logistics optimization
+* Segmented **bulk buyers** based on order count using Window Functions
+* Identified premium orders with unit prices above 100
+* Mapped savings per order using actual vs sold price comparison
 
 ### 🔹 Business Strategy & Insights
 
-* Evaluated discount impact on revenue (Savings Analysis)
-* Identified market gaps for new supplier onboarding
+* Evaluated discount impact on revenue through Savings Analysis
+* Identified high-demand products for new supplier onboarding (Mr. Kavin Market Research)
+* Mapped existing competitors for each product category
 * Recommended data-driven strategies for inventory expansion
 
 ---
@@ -76,33 +56,70 @@ The project demonstrates strong capabilities in **data analysis, query optimizat
 ## 📈 Key Achievements
 
 * Identified top 3 revenue-generating suppliers
-* Discovered high-value orders with savings exceeding **$3,000**
-* Built a structured multi-level SQL analysis framework
-* Delivered actionable insights for business decision-making
+* Discovered high-value order savings exceeding **$3,000**
+* Built a structured **4-level SQL analysis framework** (Basic → Intermediate → Advanced → Expert)
+* Delivered 23 analytical queries covering the full supply chain lifecycle
+* Produced actionable insights for customer retention, supplier strategy, and revenue growth
+
+---
+
+## 🛠️ Technical Skills Demonstrated
+
+* SQL Query Writing (Basic → Expert level)
+* Data Cleaning & Validation
+* Data Aggregation & Grouping
+* Joins (INNER JOIN across 4 tables)
+* Common Table Expressions (CTEs)
+* Window Functions (`COUNT() OVER`, `PARTITION BY`)
+* Subqueries & Correlated Nested Queries
+* Business Metrics & KPI Analysis
 
 ---
 
 ## 🧰 Tools & Technologies
 
-* SQL (Structured Query Language)
-* Relational Database Systems
+| Tool | Purpose |
+|---|---|
+| SQL | Core query language for all analysis |
+| MySQL | Relational database management system |
+| MySQL Workbench | Query execution, result visualization & screenshots |
+
+---
+
+## 📂 Project Structure
+
+```
+Supply-Chain-Data-Analysis-SQL/
+│
+├── Data/
+│   └── (Source data files)
+│
+├── Queries/
+│   └── Supply chain query.sql       # All 23 queries (4 levels)
+│
+├── Presentation/
+│   └── (Class presentation slides)
+│
+└── Visuals/
+    └── README.md                    # Screenshots of all query results
+```
+
+---
+
+## 📊 Quick Links
+
+* 📁 **[View SQL Source Code](https://github.com/KanhaMishra7/Supply-Chain-Data-Analysis-SQL/blob/main/Queries/Supply%20chain%20query.sql)**
+  Full script containing all analytical queries
+
+* 🖼️ **[View Detailed Results & Screenshots](https://github.com/KanhaMishra7/Supply-Chain-Data-Analysis-SQL/blob/main/Visuals/README.md)**
+  Visual walkthrough of data outputs and result grids for every query
 
 ---
 
 ## 👨‍💻 Author
 
 **Krishna Kant**
-Aspiring Data Scientist
-
----
-
-## 📎 How This Project Adds Value
-
-This project highlights the ability to:
-
-* Translate business problems into analytical queries
-* Work with structured datasets efficiently
-* Generate insights that support strategic decisions
+Data Science | Data Analyst
 
 ---
 
